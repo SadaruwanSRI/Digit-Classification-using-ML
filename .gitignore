@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+mnist_test.csv
+mnist_train.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
